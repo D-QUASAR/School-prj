@@ -1,0 +1,193 @@
+nav {
+ position: fixed !important;
+ top: 0 !important;
+ width: 100% !important;
+ z-index: 100000000000;
+ background-color: #000;
+ border-bottom: orangered solid 10px;
+}
+
+.toggle-btn {
+ border: none !important;
+}
+
+.logo-btn {
+ height: 5rem;
+}
+
+header {
+ min-height: 100vh;
+ min-width: 100vw;
+}
+
+.banner {
+ min-height: calc(100vh);
+ background: url("./banner.png");
+ background-position: center;
+ background-size: cover;
+ background-attachment: fixed;
+ background-repeat: no-repeat;
+ padding-top: 10rem;
+ text-align: center;
+ color: whitesmoke;
+}
+
+.banner-bcg {
+ min-width: calc(100vw);
+ background: url("./banner.png");
+ background-position: center;
+ background-size: cover;
+ background-attachment: fixed;
+ background-repeat: no-repeat;
+ padding-top: 10rem;
+ text-align: center;
+ color: whitesmoke;
+}
+
+.darken {
+ opacity: 0.8;
+}
+
+.gush {
+ font-weight: bolder !important;
+}
+
+li {
+ text-align: justify;
+ padding-bottom: 40px;
+}
+
+.row {
+ padding-bottom: 100px !important;
+}
+
+.lead {
+ font-size: 1.5rem;
+}
+
+p {
+ padding-left: 2rem;
+ padding-bottom: 3rem;
+}
+
+strong {
+ font-weight: bold;
+ font-size: x-large !important;
+ color: blueviolet;
+}
+
+.bottom {
+ padding-bottom: 3px !important;
+}
+
+.padding {
+ padding-left: 2px !important;
+ padding-right: 2px !important;
+}
+
+.left {
+ padding-left: 50px !important;
+}
+
+body {
+ font-family: "Roboto", sans-serif;
+
+}
+
+
+
+.register-bg {
+ background: url(./images/register-bg.jpg);
+ background-position: center;
+ background-size: cover;
+ background-attachment: fixed;
+ background-repeat: no-repeat;
+ padding-top: 10rem;
+ text-align: center;
+ color: whitesmoke;
+}
+
+.dark {
+ opacity: 1 !important;
+}
+.eng{
+  min-height: calc(100vw);
+  background: url("./english.jpg");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  padding-top: 10rem;
+  text-align: center;
+  color: whitesmoke;
+  }
+  .sci {
+    min-height: calc(100vw);
+    background: url("./sci.jpg");
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    padding-top: 10rem;
+    text-align: center;
+    color:whitesmoke;
+  }
+  .geo {
+    min-height: calc(100vw);
+    background: url("./geo.jpg");
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    padding-top: 10rem;
+    text-align: center;
+    color: whitesmoke;
+  }
+  .his {
+    min-height: calc(100vw);
+    background: url("./his.jpg");
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    padding-top: 10rem;
+    text-align: center;
+    color: whitesmoke;
+  }
+    .mara {
+      min-height: calc(100vw);
+      background: url("./mara.jpg");
+      background-position: center;
+      background-size: cover;
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      padding-top: 10rem;
+      text-align: center;
+      color: whitesmoke;
+    }
+      .hin {
+        min-height: calc(100vw);
+        background: url("./hin.jpg");
+        background-position: center;
+        background-size: cover;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        padding-top: 10rem;
+        text-align: center;
+        color:whitesmoke;
+
+      }
+            .math {
+              min-height: calc(100vw);
+              background: url("./math.jpg");
+              background-position: center;
+              background-size: cover;
+              background-attachment: fixed;
+              background-repeat: no-repeat;
+              padding-top: 10rem;
+              text-align: center;
+              color: whitesmoke;
+            }
+            .display4{
+              background: black;
+            }
